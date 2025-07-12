@@ -32,11 +32,9 @@ This project is a modern, responsive e-commerce platform for digital products (t
 ---
 
 ## 🖥️ Screenshots
-
 <!-- Add screenshots to the /screenshots folder and link them here -->
-
-![Home Page](screenshots:home.png)
-![Products Page](screenshotsproducts.png)
+![Home Page](screenshots/home.png)
+![Products Page](screenshots/products.png)
 
 ---
 
