@@ -89,11 +89,6 @@ FullStack/
   server/    # Node.js/Express backend
 ```
 
----
-
-## 📄 License
-
-MIT
 
 ---
 
